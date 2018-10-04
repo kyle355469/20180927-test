@@ -8,7 +8,7 @@ int main() {
 		for(int i = 0; i < 50; i++){
 			
 		}
-		cout << "½Ð¿é¤J¦r¦ê : ";
+		cout << "è«‹è¼¸å…¥å­—ä¸² : ";
 		cin >> word;
 		for(int i = 0; i < 50; i++){
 			if(i % 2 == 0){
