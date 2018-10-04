@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 	int name[5];
 	for(int i = 0; i < 5; i++){	
-		cout << "�п�J��" << i + 1 << "�ӼƦr : "; 
+		cout << "請輸入第" << i + 1 << "個數字 : "; 
 		cin >> name[i];
 	} 
 	int turn;
